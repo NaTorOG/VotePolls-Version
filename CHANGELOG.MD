@@ -1,3 +1,12 @@
+# VERSION 3.2
+1 - Fixed Bug about new custom requests
+
+# INSTALLATION 3.2
+1 - Delete your old config.yml and VotePolls.jar
+2 - Place VotePolls3.2.jar and START your server
+3 - STOP your server
+4 - Configure your config.yml
+
 # VERSION 3.1
 1 - Added possibility to disable Questions or Requests
 
